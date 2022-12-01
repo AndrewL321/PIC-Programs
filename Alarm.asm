@@ -1,6 +1,4 @@
 ;=========================================================================
-;PROGRAM - SCC369 Coursework 4 Door Alarm
-;
 ;DESCR -  Door alarm program. Uses magnetic trigger on RB7 to start alarm
 ;	  that uses PWM.
 ;

@@ -1,6 +1,4 @@
 ;=========================================================================
-;PROGRAM - SCC369 Coursework 3 Temperature
-;
 ;DESCR -  Use I2C to read values from temperature sensor
 ;	  Display readings on portc and track min max.
 ;

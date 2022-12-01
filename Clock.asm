@@ -1,6 +1,4 @@
 ;=========================================================================
-;PROGRAM - SCC369 Coursework 2 Clock
-;
 ;DESCR - Clock counter on PORTC. Detects master/slave for 
 ;	 24 hour binary clock. 
 ;

@@ -1,7 +1,5 @@
 
 ;=========================================================================
-;PROGRAM - SCC366 Coursework 1 Lights and Switches
-;
 ;DESCR - Switch through modes for LEDs on PORTC with input on PORTB
 ;
 ;AUTHOR - Andrew Lucas
