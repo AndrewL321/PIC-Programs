@@ -9,7 +9,7 @@
 ;HISTORY - 1.00
 ;=========================================================================
 
-TITLE "Coursework 1"
+TITLE "PIC Program"
 SUBTITLE "Lights and Switches"
 
 PROCESSOR 16F1507

@@ -9,7 +9,7 @@
 ;HISTORY - 1.00
 ;=========================================================================
 
-TITLE "Coursework 2"
+TITLE "PIC Program"
 SUBTITLE "Clock"
 
 PROCESSOR 16F1507

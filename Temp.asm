@@ -9,7 +9,7 @@
 ;HISTORY - 1.00
 ;=========================================================================
 
-TITLE "Coursework 3"
+TITLE "PIC Program"
 SUBTITLE "Temperature"
 
 PROCESSOR 16F1507

@@ -9,7 +9,7 @@
 ;HISTORY - 1.00
 ;=========================================================================
 
-TITLE "Coursework 4"
+TITLE "PIC Program"
 SUBTITLE "Door Alarm"
 
 PROCESSOR 16F1507
